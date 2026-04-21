@@ -1,5 +1,0 @@
-{
-    "terminal.integrated.focusAfterRun": "none",
-    "code-runner.runInTerminal": true,
-    "python.terminal.shellIntegration.enabled": true
-}
